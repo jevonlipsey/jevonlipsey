@@ -11,7 +11,7 @@
           pursuing PhD in AI/HCI this fall.
         </p>
         <p>
-          published research in neurosymbolic AI (AAAI-25, PMLR 2025)
+          published research in neurosymbolic AI (<a href="https://doi.org/10.1609/aaai.v39i28.35313">AAAI-25</a>, <a href="https://proceedings.mlr.press/v284/zhang25a.html">PMLR 2025</a>)
         </p>
         <p>
           <b>📫 contact:</b><br>
@@ -19,7 +19,7 @@
           <a href="mailto:jevonlipsey1029@gmail.com">email</a>
         </p>
         <a href="https://discord.com/users/395096833317404672">
-          <img src="https://lanyard.cnrad.dev/api/395096833317404672?theme=dark&bg=0d1117&borderRadius=10px&animated=true&hideBadges=true&hideTimestamp=false&idleMessage=it's%20quiet..." alt="Discord Status"/>
+          <img src="https://lanyard.cnrad.dev/api/395096833317404672?theme=dark&bg=0d1117&borderRadius=0px&animated=true&hideBadges=true&hideTimestamp=false&idleMessage=it's%20quiet..." alt="Discord Status"/>
         </a>
       </td>
     </tr>
