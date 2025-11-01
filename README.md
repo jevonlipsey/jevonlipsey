@@ -25,7 +25,6 @@
     </tr>
   </table>
   
-  <br>
   
   <table align="center" width="850">
     <tr>
