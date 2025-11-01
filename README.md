@@ -1,33 +1,42 @@
-## 👋🏽 Hey, I'm Jevon
+<div align="center">
 
-CS @ Colorado College | Graduating Spring 2026 | Pursuing PhD in AI/HCI
+  <table align="center">
+    <tr>
+      <td width="600" align="center">
+        <img src="https://media.giphy.com/media/tptFQ8QAJYYvu/giphy.gif" width="600" alt="l gif" style="border-radius:15px;"/>
+      </td>
+      <td valign="middle" align="left" style="padding-left: 20px;">
+        <h3>👋🏽 hey, i'm jevon</h3>
+        <p>
+          cs @ colorado college &nbsp;|&nbsp; graduating spring 2026<br>
+          pursuing PhD in AI/HCI this fall.
+        </p>
+        <p>
+          published research in neurosymbolic AI (AAAI-25, PMLR 2025)
+        </p>
+        <p>
+          <b>📫 contact:</b><br>
+          <a href="https://linkedin.com/in/jevonlipsey">linkedin</a> |
+          <a href="mailto:jevonlipsey1029@gmail.com">email</a>
+        </p>
+      </td>
+    </tr>
+  </table>
 
-Published research in neurosymbolic AI (AAAI-25, PMLR 2025)
+  <br>
 
-## 💻 chipping at..
+  <table align="center" width="850"> <tr>
+      <td align="left">
+        <img alt="skills" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50" />
+      </td>
+      <td align="right">
+        <img alt="python" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50" />
+        <img alt="html" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmh3b3E3YWhtYzB5enBlaWg5bHZjN2c4eGs5Nzd4Z3kwaHN1dG13MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XAxylRMCdpbEWUAvr8/giphy.gif" width="50" />
+        <img alt="css" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2txaWNobHFtczg5bzJmNmhrdGIxcTN2OWVibmJjYW5xYmxyZ21pNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50" />
+        <img alt="js" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50" />
+        <img alt="js" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWxoY2xkMGJqamxwOThuaXpreDRrc2t0MDIweG5iNjM2Nzl5ODg4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kH1DBkPNyZPOk0BxrM/giphy.gif" width="85" />
+      </td>
+    </tr>
+  </table>
 
-**eBird Hotspot Ranker** (Senior Capstone) - Full-stack web app predicting bird species sighting likelihood using machine learning and the eBird API.
-
-## 🛠️ stack
-
-`Python` `Java` `HTML/CSS/JS` 
-
-## 📫 contact
-
-[linkedin](https://linkedin.com/in/jevonlipsey) | [email](mailto:jevonlipsey1029@gmail.com)
-
-
-<!--
-**jevonlipsey/jevonlipsey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
