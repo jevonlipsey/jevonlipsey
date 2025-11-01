@@ -19,7 +19,7 @@
           <a href="mailto:jevonlipsey1029@gmail.com">email</a>
         </p>
         <a href="https://discord.com/users/395096833317404672">
-          <img src="https://lanyard.cnrad.dev/api/395096833317404672?theme=dark&bg=0d1117&borderRadius=0px&animated=true&hideBadges=true&hideTimestamp=false&idleMessage=it's%20quiet..." alt="Discord Status"/>
+          <img src="https://lanyard.cnrad.dev/api/395096833317404672?theme=dark&bg=0d1117&borderRadius=0px&animated=true&hideBadges=true&hideTimestamp=false&idleMessage=it's%20quiet..." alt="Discord Status" width="400"/>
         </a>
       </td>
     </tr>
