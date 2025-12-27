@@ -14,6 +14,8 @@
           published research in neurosymbolic AI (<a href="https://doi.org/10.1609/aaai.v39i28.35313">AAAI-25</a>, <a href="https://proceedings.mlr.press/v284/zhang25a.html">PMLR 2025</a>)
         </p>
         <p>
+          currently working on: Pocket8! (pico-ios)
+        <p>
           <b>📫 contact:</b><br>
           <a href="https://linkedin.com/in/jevonlipsey">linkedin</a> |
           <a href="mailto:jevonlipsey1029@gmail.com">email</a>
