@@ -20,6 +20,9 @@
           <a href="https://linkedin.com/in/jevonlipsey">linkedin</a> |
           <a href="mailto:jevonlipsey1029@gmail.com">email</a>
         </p>
+        <p>
+          <b>☕️ <a href="https://ko-fi.com/jevonlipsey" target="_blank" rel="noopener noreferrer">buy me a coffee <3</a></b>
+        </p>
         <a href="https://discord.com/users/395096833317404672">
           <img src="https://lanyard.cnrad.dev/api/395096833317404672?theme=dark&bg=0d1117&borderRadius=0px&animated=true&hideBadges=true&hideTimestamp=false&idleMessage=it's%20quiet..." alt="Discord Status" width="400"/>
         </a>
